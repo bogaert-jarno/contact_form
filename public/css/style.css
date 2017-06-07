@@ -89,3 +89,15 @@ footer {
 #mg-btm {
   margin-bottom: 50px;
 }
+
+.alert-danger {
+  background-color: #DB4242;
+  color: #fff;
+  border-color: #DB0000;
+}
+
+.alert-success {
+  background-color: #42DB7A;
+  border-color: #00DB37;
+  color: #fff;
+}
